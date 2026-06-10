@@ -1,6 +1,8 @@
 # 🪐 ChronoLog: Suporte Psicossocial e Monitoramento Mental Orbital
 > **FIAP - Global Solution 2026 | Indústria Espacial**  
 > **Turma: 2TWDOA**
+> 
+> 🔗 **Vídeo Pitch:** [Assista no YouTube](https://www.youtube.com/watch?v=GtHMhqsuN40)
 
 ---
 
@@ -107,4 +109,6 @@ A interface utiliza os princípios de **Glassmorphism** e **Dark Theme** futuris
 ---
 
 ## 🧬 Conexão com os ODS da ONU
-O ChronoLog atende diretamente ao **ODS 3 (Saúde e Bem-Estar)**, meta 3.4 (promover a saúde mental e o bem-estar), aplicando tecnologia espacial para garantir a saúde psicológica de populações confinadas em ambientes extremos.
+O ChronoLog atende diretamente a dois Objetivos de Desenvolvimento Sustentável fundamentais:
+*   **ODS 3 (Saúde e Bem-Estar - Meta 3.4):** Promoção de saúde mental e bem-estar psicológico através de suporte offline e descompressão acústico-respiratória no espaço.
+*   **ODS 8 (Trabalho Decente e Crescimento Econômico - Meta 8.8):** Proteção dos direitos trabalhistas e garantia de ambientes de trabalho seguros e protegidos para todos os trabalhadores (incluindo astronautas e operadores em ambientes isolados de alto estresse).
